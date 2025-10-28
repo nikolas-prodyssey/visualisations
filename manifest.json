@@ -1,0 +1,18 @@
+{
+  "dataStudio": {
+    "name": "AP Blocks (Grouped by Contact)",
+    "company": "Prodyssey Solutions",
+    "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/7/7e/Crystal_Clear_app_klines.png",
+    "description": "Grouped vendor blocks with per-contact total and clickable invoice links."
+  },
+  "components": [
+    {
+      "id": "main",
+      "name": "AP Blocks",
+      "description": "Displays invoices grouped by contact with a bold total.",
+      "iconUrl": "https://upload.wikimedia.org/wikipedia/commons/7/7e/Crystal_Clear_app_klines.png",
+      "js": ["index.js"],
+      "html": "index.html"
+    }
+  ]
+}
